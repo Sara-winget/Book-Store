@@ -9,7 +9,7 @@ Its a simple book store project where one can create a book with details, edit i
 - express
 - React (vite@latest)
 - node.Js
-- Tailwind css
+
 
 ## To use this project
 **backend:** npm i dotenv cors express mongoose mongodb nodemon 
