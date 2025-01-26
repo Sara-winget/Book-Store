@@ -7,12 +7,15 @@ Its a simple book store project where one can create a book with details, edit i
 - Mongoose **(CRUD operations)**
 - Mongodb
 - express
+
+- React (vite@latest)
+- node.Js
+-tailwind css
 -node js
 -react js
 -tailwind css
 
 
-  
 
 
 
