@@ -6,7 +6,13 @@ Its a simple book store project where one can create a book with details, edit i
 ## Technologies used
 - Mongoose **(CRUD operations)**
 - Mongodb
-- expresssss
+- express
+-node js
+-react js
+-tailwind css
+
+
+  
 
 
 
