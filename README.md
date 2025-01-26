@@ -7,7 +7,7 @@ Its a simple book store project where one can create a book with details, edit i
 - Mongoose **(CRUD operations)**
 - Mongodb
 - express
--node js
+- node js
 -react js
 -tailwind css
 
