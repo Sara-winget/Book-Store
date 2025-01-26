@@ -6,10 +6,10 @@ Its a simple book store project where one can create a book with details, edit i
 ## Technologies used
 - Mongoose **(CRUD operations)**
 - Mongodb
-- express
--node js
--react js
--tailwind css
+- expressss
+- node js
+- react js
+- tailwind css
 
 
   
