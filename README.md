@@ -6,7 +6,7 @@ Its a simple book store project where one can create a book with details, edit i
 ## Technologies used
 - Mongoose **(CRUD operations)**
 - Mongodb
-- express
+- expresssss
 
 
 
